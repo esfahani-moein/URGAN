@@ -1,0 +1,11 @@
+*.sh
+__pycache__/
+**/__pycache__/
+
+**/checkpoints/
+
+**/samples/
+
+**/logs/
+**/results/
+**/reports/
